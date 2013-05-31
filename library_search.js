@@ -26,7 +26,7 @@ chrome.contextMenus.create({
     "title": "Amazonから検索",
     "type": "normal",
     "contexts": ["all"],
-    "documentUrlPatterns": ["http://www.amazon.co.jp/dp/*", "http://www.amazon.co.jp/*/dp/*"],
+    "documentUrlPatterns": ["http://www.amazon.co.jp/*"],
     "parentId": parentId,
     "onclick": searchWithAmazon
 });

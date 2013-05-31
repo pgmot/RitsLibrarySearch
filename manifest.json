@@ -1,7 +1,7 @@
 
 {
     "name": "RitsLibrarySearch",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "manifest_version": 2,
     "description": "書籍が立命の図書館にあるか調べます",
     "permissions": [
