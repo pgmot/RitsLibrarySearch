@@ -1,0 +1,11 @@
+
+{
+    "name": "RitsLibrarySearchForAmazon",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Amazonの書籍が図書館にあるか調べます",
+    "browser_action": {
+        "default_title": "Hello GCM!",
+        "default_popup": "index.html"
+    }
+}
