@@ -17,7 +17,7 @@ function searchWithSelectionWord(info, tab){
 }
 
 var parentId = chrome.contextMenus.create({
-    "title": "立命図書館検索",
+    "title": "Rits図書館検索",
     "type": "normal",
     "contexts": ["all"]
 });

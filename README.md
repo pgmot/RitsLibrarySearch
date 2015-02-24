@@ -21,3 +21,5 @@ GoogleのWebstoreを介さずに入れる形となります．ソースコード
 ### Amazonのページを調べる場合
 Amazon.co.jpの書籍のページで右クリックすれば検索できます．
 
+# 既知の問題
+- Amazon検索がKindle本では動かない
